@@ -3,7 +3,10 @@ Web Scraping task completed during CodeAlpha Internship using Python, BeautifulS
 
 Learning Outcome:-
 
-basic of web scraping
-HTML parsing
-Data extraction using BeautifulSoup
-Saving structured data into CSV files
+basic of web scraping,
+
+HTML parsing,
+
+Data extraction using BeautifulSoup,
+
+Saving structured data into CSV files,
